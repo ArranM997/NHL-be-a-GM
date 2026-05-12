@@ -7,3 +7,5 @@ launcher and exe need to be in the same directory
 Execution note: launch via Launcher.exe (not NHL be a GM v1.5.exe).
 
 <img width="675" height="573" alt="image" src="https://github.com/user-attachments/assets/156f68dc-1401-46b6-aee1-929579e208ff" />
+<img width="742" height="343" alt="image" src="https://github.com/user-attachments/assets/73a1a6c4-1ac7-4623-9697-ac7625defc7c" />
+
